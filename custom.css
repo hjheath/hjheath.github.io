@@ -1,0 +1,31 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+
+.content {
+  font-size: large;
+  padding-bottom: 30px
+}
+
+.footer {
+  padding-top: 19px;
+  color: #777;
+}
+
+h1 {
+	padding-top: 15px;
+	}
+
+.section {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.bottom {
+ text-align:right;
+ }
